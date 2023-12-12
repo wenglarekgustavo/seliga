@@ -3,3 +3,14 @@ body{
     text-align: center;
     color: aliceblue;
 }
+p{
+color: black;
+font-size: 20px;
+}
+#lista{
+background-color: aquamarine;
+text-align: center;
+font-size: 25px;
+color: blueviolet;
+border: dotted yellowgreen 10px;
+}
